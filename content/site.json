@@ -1,0 +1,14 @@
+{
+  "name": "MNN",
+  "longName": "Mom News Network",
+  "tagline": "Real News. Real Moms. Real Doctors (Yours).",
+  "categories": ["Health", "Family", "Doctors Hate This", "Kitchen", "Dad Desk"],
+  "ticker": [
+    "BREAKING: Your doctor's office would still like you to call them back",
+    "DEVELOPING: Glass of water found to be 'pretty good, actually'",
+    "EXCLUSIVE: Pill organizer spotted doing exactly what it says on the box",
+    "ALERT: Experts confirm the kids were, once again, right",
+    "UPDATE: Walking around the block still legal, still good for you"
+  ],
+  "footer": "MNN is general wellness information written in a silly voice. It is not medical advice and it is not a substitute for your doctor, who outranks us in every way."
+}

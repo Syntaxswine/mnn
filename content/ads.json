@@ -1,0 +1,66 @@
+[
+  {
+    "id": "miracle-drink",
+    "sponsor": "PureVita Living",
+    "headline": "Grandmothers Everywhere Are Switching To This 'Miracle' Drink",
+    "emoji": "🥤",
+    "colors": ["#2b7de9", "#9ad0ff"],
+    "landing": "The miracle drink is water. It was water the whole time. This offer is only valid once you have had a glass, so go have one and come back."
+  },
+  {
+    "id": "one-phone-call",
+    "sponsor": "WellnessWire",
+    "headline": "Local Mom Loses 20 Pounds Of Worry With One Phone Call",
+    "emoji": "📞",
+    "colors": ["#e95b2b", "#ffb59a"],
+    "landing": "She called her doctor's office and asked the question she had been searching the internet about for three weeks. The nurse answered it in forty seconds. This technique is available to you right now."
+  },
+  {
+    "id": "zero-dollar-device",
+    "sponsor": "HealthyNest Co.",
+    "headline": "This $0 Device Helps Blood Pressure And Doctors Actually Recommend It",
+    "emoji": "🛏️",
+    "colors": ["#5a3be9", "#c9b8ff"],
+    "landing": "It's a bed. The device is a bed, used for sleeping, at roughly the same time every night. No shipping required."
+  },
+  {
+    "id": "forbidden-snack",
+    "sponsor": "GoodSense Nutrition",
+    "headline": "The 'Forbidden' Snack Nutritionists Secretly Eat Every Day",
+    "emoji": "🍎",
+    "colors": ["#2bb673", "#b6f0d2"],
+    "landing": "It's an apple. Nutritionists eat apples. There is no secret. We apologise for the headline, but you are here now, so please enjoy an apple."
+  },
+  {
+    "id": "rushing-to-clinic",
+    "sponsor": "Dad Desk Partners",
+    "headline": "Why Men Over 60 Are Rushing To This One Clinic",
+    "emoji": "🏥",
+    "colors": ["#1f6f8b", "#a3d5e5"],
+    "landing": "It's their regular doctor's office. They are rushing because the appointment was at 10:15 and it is now 10:20. Reschedule the one you cancelled."
+  },
+  {
+    "id": "pill-bottle-secret",
+    "sponsor": "ClearLabel Pharmacy Network",
+    "headline": "SHOCKING: What This Pill Bottle Says On The Side",
+    "emoji": "💊",
+    "colors": ["#c62828", "#ffb3b3"],
+    "landing": "The directions. It says the directions. Take it as directed, finish the course if it's an antibiotic, and if a side effect is bothering you, tell the doctor rather than quietly stopping."
+  },
+  {
+    "id": "throw-away-one-thing",
+    "sponsor": "Heart & Hearth Media",
+    "headline": "Cardiologists Beg: Throw Away This One Thing Tonight",
+    "emoji": "🗑️",
+    "colors": ["#6d4c41", "#d7ccc8"],
+    "landing": "The article that told you fish oil cancels out cake. Into the bin. Cake is fine sometimes; receipts are not a food group."
+  },
+  {
+    "id": "medicine-cabinet",
+    "sponsor": "TidyShelf Home",
+    "headline": "You Won't Believe What's Hiding In Your Medicine Cabinet",
+    "emoji": "🧴",
+    "colors": ["#00897b", "#b2dfdb"],
+    "landing": "Expired stuff, probably. Check the dates. Most pharmacies will take old medication back so it doesn't end up in the sink or the bin."
+  }
+]

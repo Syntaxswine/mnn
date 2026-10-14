@@ -1,0 +1,14 @@
+# GitLab Pages: build public/ from content/ on every push to the default branch.
+# The article generator is NOT run here (it needs an API key); it runs wherever Shy's automation lives
+# and commits the new .md files, which then trigger this build.
+image: node:22
+
+pages:
+  stage: deploy
+  script:
+    - node tools/build.mjs
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

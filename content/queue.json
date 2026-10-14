@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "the 'detox' teas and cleanses advertised everywhere",
+    "advice": "Your liver and kidneys already do this for free. If a product promises to detox you, keep your money; if you feel genuinely unwell, that's a doctor visit, not a tea.",
+    "audience": "mom",
+    "category": "Kitchen"
+  },
+  {
+    "topic": "googling symptoms at midnight",
+    "advice": "Write the symptom down with the date and bring it to the appointment. The internet can't examine you; the doctor can.",
+    "audience": "mom",
+    "category": "Health"
+  },
+  {
+    "topic": "the yearly flu shot",
+    "advice": "Ask your doctor or pharmacist which vaccines they recommend for you this year, and get them. It's one short visit.",
+    "audience": "all",
+    "category": "Health"
+  },
+  {
+    "topic": "ignoring a cough or a sore knee for months because it's 'probably nothing'",
+    "advice": "Anything that has lasted more than a couple of weeks is worth a visit. 'Probably nothing' is the doctor's line to say, after looking.",
+    "audience": "dad",
+    "category": "Dad Desk"
+  }
+]

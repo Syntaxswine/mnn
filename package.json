@@ -1,0 +1,15 @@
+{
+  "name": "mnn",
+  "version": "0.1.0",
+  "description": "Mom News Network: clickbait-shaped articles whose secret ingredient is sensible advice.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "write": "node tools/write-article.mjs",
+    "serve": "node tools/serve.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0"
+  }
+}
