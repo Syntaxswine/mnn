@@ -1,5 +1,7 @@
 {
   "name": "MNN",
+  "basePath": "/mnn/",
+  "basePathNote": "where the site is served from; GitHub project pages = /mnn/, a root domain = /. Only the 404 page needs it.",
   "longName": "Mom News Network",
   "tagline": "Real News. Real Moms. Real Doctors (Yours).",
   "categories": ["Health", "Family", "Doctors Hate This", "Kitchen", "Dad Desk"],

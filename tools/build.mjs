@@ -221,7 +221,8 @@ export function build() {
   for (const a of articles) write(`${a.url}index.html`, articlePage(a, articles));
   for (const c of site.categories) write(`c/${slugify(c)}/index.html`, categoryPage(c, articles));
   for (const ad of ads) write(`offer/${ad.id}/index.html`, offerPage(ad));
-  write("404.html", shell({ rel: "/", title: "Page not found", body: `<article class="offer"><h1>This Page Is Gone</h1><p class="offer-body">Like the last of the good cookies. <a href="/">Back to the front page.</a></p></article>` }));
+  const base = site.basePath || "/";
+  write("404.html", shell({ rel: base, title: "Page not found", body: `<article class="offer"><h1>This Page Is Gone</h1><p class="offer-body">Like the last of the good cookies. <a href="${base}">Back to the front page.</a></p></article>` }));
   write("feed.json", JSON.stringify({
     site: site.longName, generated: new Date().toISOString(),
     articles: articles.map(({ body, ...a }) => a),
